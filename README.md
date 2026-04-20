@@ -21,7 +21,7 @@ I code whatever comes into my head.
 ---
 
 ## ░ Who Inspires Me ░
-- [@gaurde <- Cool peep check them out!](https://github.com/gaurde)  
+- [@gaurdee <- Cool peep check them out!](https://github.com/gaurdee)  
 
 ---
 
