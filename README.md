@@ -21,9 +21,7 @@ I code whatever comes into my head.
 ---
 
 ## ░ Who Inspires Me ░
-- [@jeepies <- Cool guy check them out!](https://github.com/jeepies)  
-- [@TheIdOfAlan](https://github.com/TheIdOfAlan)  
-- [@Vesturo](https://github.com/Vesturo)  
+- [@gaurde <- Cool peep check them out!](https://github.com/gaurde)  
 
 ---
 
